@@ -96,7 +96,7 @@ const Portfolio: React.FC = () => {
       id: 2,
       title: "Bathroom Transformation",
       category: "Bathroom",
-      beforeImage: "https://images.pexels.com/photos/6585757/pexels-photo-6585757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      beforeImage: "/website pics/before2.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       afterImage: "https://images.pexels.com/photos/1910472/pexels-photo-1910472.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
