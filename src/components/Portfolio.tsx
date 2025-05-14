@@ -89,7 +89,7 @@ const Portfolio: React.FC = () => {
       id: 1,
       title: "Modern Kitchen Remodel",
       category: "Kitchen",
-      beforeImage: "https://images.pexels.com/photos/3214064/pexels-photo-3214064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      beforeImage: "https://github.com/Mabvaru/TRAN/blob/main/website%20pics/before1.jpg",
       afterImage: "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
